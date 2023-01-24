@@ -4,5 +4,3 @@ En el archivo llamado "analisis_futbol", se encuentra un analisis de una base de
 
 Por último, se presenta el mejor y el peor equipo de la historia 
 
-
-Martín Olivares / +569 45861392 / martin.j.olivares1@gmail.com
